@@ -1,0 +1,18 @@
+BOOTSTRAP
+col by itself defualts to small
+md = tablet
+
+!!!good rule of thumb is use MD!!!!
+
+
+BASH PROFILE
+
+
+
+
+!!!!!!for loop & conditional statements !!!!!!!!!
+
+
+
+JOBS
+craiglist... 

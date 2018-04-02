@@ -1,0 +1,30 @@
+nav {
+  background-color: lime;
+}
+
+.img-fluid {
+
+    height: 35%;
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+.bg-lime {
+  background-color: lime;
+}
+
+.btn-warning {
+    color: #fff;
+    background-color: #ffc107;
+    border-color: #ffc107;
+}
+
+.col-md-4.mx-auto {
+    margin-bottom: -30%;
+}
+
+h2 {
+    margin-top: 13%;
+}
